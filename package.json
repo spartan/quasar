@@ -1,0 +1,28 @@
+{
+  "name": "@spartan/quasar",
+  "version": "0.0.1",
+  "description": "Spartan Quasar Toolkit",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spartan/quasar.git"
+  },
+  "keywords": [
+    "spartan",
+    "quasar",
+    "vue"
+  ],
+  "author": {
+    "name": "Iulian N.",
+    "email": "iulian@spartanphp.com",
+    "url": "https://spartanphp.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spartan/quasar/issues"
+  },
+  "homepage": "https://docs.spartanphp.com"
+}

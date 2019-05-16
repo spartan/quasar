@@ -1,0 +1,6 @@
+/.nbproject
+/.idea
+/.vagrant
+/vendor
+*.phar
+.env
